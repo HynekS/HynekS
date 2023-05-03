@@ -13,6 +13,11 @@
 </div>
 <br/>
 
+## We can get in touch here:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hynek-%C5%A1v%C3%A1cha-829387103/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8252267)
+
+
+## Some stats:
 ![These are the languages I use most often (according to my repos)](https://github-readme-stats.vercel.app/api/top-langs/?username=HynekS&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
