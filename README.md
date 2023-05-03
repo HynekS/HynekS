@@ -5,10 +5,10 @@
 ## This is my most used stack:
 <br/>
 <div>
-<img src="https://user-images.githubusercontent.com/24924967/236005817-5308380e-51c2-4285-a0df-c1ab53d8412e.svg" width="70"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/24924967/236006057-92881339-c1a9-4a76-ab2a-16dc39997e09.svg" width="70"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/24924967/236009839-42084288-3e5b-4daa-b1da-4b0472e62a47.svg" width="70"/>&nbsp;
-<img src="https://user-images.githubusercontent.com/24924967/236007921-ea32d250-d5d3-4f17-aa53-579ad78d3d4c.svg" width="70"/>&nbsp;
+<img src="https://user-images.githubusercontent.com/24924967/236005817-5308380e-51c2-4285-a0df-c1ab53d8412e.svg" width="70"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/24924967/236006057-92881339-c1a9-4a76-ab2a-16dc39997e09.svg" width="70"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/24924967/236009839-42084288-3e5b-4daa-b1da-4b0472e62a47.svg" width="70"/>&nbsp;&nbsp;
+<img src="https://user-images.githubusercontent.com/24924967/236007921-ea32d250-d5d3-4f17-aa53-579ad78d3d4c.svg" width="70"/>&nbsp;&nbsp;
 
 </div>
 <br/>
